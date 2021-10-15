@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import Entry from './components/Entry/Entry';
+import Entry from './components/Entry';
 import { CssBaseline, ThemeProvider } from '@material-ui/core';
 import theme from './theme';
 import { BrowserRouter } from 'react-router-dom';
